@@ -14,7 +14,7 @@ waifu.Size = Vector2.new(288, 512)
 waifu.Position = Vector2.new(500, 200)
 waifu.Visible = true
 
-waifu.Data = game:HttpGet("https://raw.githubusercontent.com/nvqren/Matcha-Waifu/refs/heads/main/waifu.png")
+waifu.Data = game:HttpGet("https://raw.githubusercontent.com/skeeht/majestic/refs/heads/main/c17a26942074e80061f4d581aada747a.png")
 
 local dragging = false
 local dragStartMouse = nil
